@@ -2,6 +2,6 @@
 //var b = 3
 function add(a,b) {
 //a+=b
-return a+=b
+return a+=
 }
  
