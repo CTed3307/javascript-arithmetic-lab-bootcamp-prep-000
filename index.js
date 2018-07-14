@@ -6,3 +6,4 @@ function add() {
 a+= 10
 }
 add()
+console.log(a)
