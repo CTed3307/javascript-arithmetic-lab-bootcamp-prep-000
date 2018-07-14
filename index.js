@@ -1,7 +1,5 @@
-var a = 10
-var b = 5
+var a = 175
+var b = 1
 function add() {
   a += b
 }
-add()
-console.log(add)
