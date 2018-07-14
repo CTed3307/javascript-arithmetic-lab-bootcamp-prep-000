@@ -4,3 +4,4 @@ function add() {
   a += b
 }
 add()
+console.log(add)
