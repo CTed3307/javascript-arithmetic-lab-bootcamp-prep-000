@@ -12,3 +12,7 @@ return a-=b
 //a+=b
 return a*=b
 }
+ function divide(a,b) {
+//a+=b
+return a/=b
+}
