@@ -1,9 +1,7 @@
 
-var a=10
-
 
 function add(a,b) {
-a+= 10
+a+=b 
 }
-add()
-console.log(a)
+add(1,2)
+console.log(add)
