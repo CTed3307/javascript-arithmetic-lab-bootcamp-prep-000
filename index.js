@@ -2,7 +2,7 @@
 var a=10
 
 
-function add() {
+function add(a,b) {
 a+= 10
 }
 add()
