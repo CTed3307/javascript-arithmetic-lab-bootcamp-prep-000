@@ -1,7 +1,7 @@
 
-var a=1
-var b=2
+var a=10
+
 
 function add() {
-a+=b
+a+= 10
 }
